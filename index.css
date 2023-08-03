@@ -1,0 +1,81 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background: #F3FAFF;
+    padding:80px 260px ;
+}
+.section_head{
+    margin-bottom: 60px;
+}
+ .section_head h1{
+    position: relative;
+    padding:0 ;
+    line-height: 1;
+    letter-spacing: 0.3px;
+    font-size: 34px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: none;
+    margin-bottom: 30px;
+    font-family: sans-serif;
+}
+.section_head p{
+font-size: 14px;
+text-align: center;
+font-family: sans-serif;
+}
+.item1{
+    background: white;
+    text-align: left;
+    padding: 30px 25px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    border-top: 4px solid rgba(243, 16, 16, 0.719);
+    height: 200px;
+    width: 280px;
+    font-size: 12px;
+}
+.item2{
+    background: white;
+    text-align: left;
+    padding: 30px 25px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    border-top: 4px solid rgba(16, 141, 243, 0.74);
+    height: 200px;
+    width: 280px;
+    font-size: 12px;
+
+}
+.item3{
+    background: white;
+    text-align: left;
+    padding: 30px 25px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    border-top: 4px solid rgba(2, 167, 103, 0.87);
+    height: 200px;
+    width: 280px;
+    font-size: 12px;
+
+}
+.item4{
+    background: white;
+    text-align: left;
+    padding: 30px 25px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    border-top: 4px solid rgb(255, 187, 0);
+    height: 200px;
+    width: 280px;
+    font-size: 12px;
+
+}
+.card-img-top{
+    height: 50px;
+    width:50px;
+    float: right;
+}
